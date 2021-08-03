@@ -1,6 +1,17 @@
 # EpicBundle-FreeGames
 There's a [dotnet version](https://github.com/azhuge233/EpicBundle-FreeGames-dotnet), any future updates will be added there first.
 
+## My Free Games Collection
+
+- SteamDB
+    - [https://github.com/azhuge233/SteamDB-FreeGames](https://github.com/azhuge233/SteamDB-FreeGames)(Python)
+    - [https://github.com/azhuge233/SteamDB-FreeGames-dotnet](https://github.com/azhuge233/SteamDB-FreeGames-dotnet)
+- EpicBundle
+    - [https://github.com/azhuge233/EpicBundle-FreeGames](https://github.com/azhuge233/EpicBundle-FreeGames)(Python)
+    - [https://github.com/azhuge233/EpicBundle-FreeGames-dotnet](https://github.com/azhuge233/EpicBundle-FreeGames-dotnet)
+- Indiegala
+    - [https://github.com/azhuge233/IndiegalaFreebieNotifier](
+
 ## Usage
 
 Clone repo
